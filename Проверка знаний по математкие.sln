@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Проверка знаний по математкие", "Проверка знаний по математкие.pyproj", "{695E63E2-28F7-4227-9A4C-8376FC3F8406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695E63E2-28F7-4227-9A4C-8376FC3F8406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695E63E2-28F7-4227-9A4C-8376FC3F8406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79C7EF91-A328-4AC2-A7CA-368F1186E409}
+	EndGlobalSection
+EndGlobal
